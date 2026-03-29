@@ -1,11 +1,10 @@
-# bk_tree
+# bk-tree
 
-bk_tree - BK-tree for fuzzy string matching using Levenshtein distance.
+Single-file Python CLI. Zero dependencies.
 
 ## Usage
 
 ```bash
-python3 bk_tree.py --test
+python3 bk_tree.py
+python3 bk_tree.py test
 ```
-
-Zero dependencies. Python 3.8+.
